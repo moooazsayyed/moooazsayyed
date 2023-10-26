@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @moooazsayyed
 - 👀 I’m interested in cloud computing and Linux scripting
 - 🌱 I’m currently learning Azure , Jenkins , Java
+- 📚 Pursuing My Bachelors in Computer Application
 - 💞️ I’m looking to collaborate on Linux , Python
 - 📫 How to reach me sayyedmooaz@gmail.com
 
