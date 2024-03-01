@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GateBot.io Scoiety securtiy System](https://github.com/moooazsayyed/GateBot.io)
 
-- 🌱 I’m currently learning **Azure Devops,Nodejs**
+- 🌱 I’m currently learning **Azure Devops,Resct.js**
 
 - 👯 I’m looking to collaborate on [GateBot.io](https://github.com/moooazsayyed/GateBot.io)
 
