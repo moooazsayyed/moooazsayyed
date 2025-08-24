@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Python ,linux ,Azure**
 
-- 📝 I regularly write articles on [mooazsayyed.hasnode.dev](mooazsayyed.hasnode.dev)
+- 📝 I regularly write articles on [blog.mooazsayyed.live](blog.mooazsayyed.live)
 
 - 💬 Ask me about **Cloud Computing , Devops**
 
